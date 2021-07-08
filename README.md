@@ -1,4 +1,4 @@
-어글리어스 개발자  
+어글리어스
 
 <!---
 uglyus-nunu/uglyus-nunu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
